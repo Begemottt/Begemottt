@@ -1,5 +1,5 @@
 # Hello! I'm Robin VanGilder #
-Just a humble web designer and frontend developer, working on various projects. Most of the stuff on here is old school projects, but I'm starting to do more personal stuff too, like a game made in React and a portfolio website.
+I'm a professional web developer and technical consultant at Praece Consulting LLC. None of that work is going to end up here, they have a private repository, this is just for fun side-projects, and some example code.
 ## My Skills ##
 * CSS
     * SCSS
@@ -12,5 +12,9 @@ Just a humble web designer and frontend developer, working on various projects. 
     * React.js
     * Anime.js
 * MySQL
+* Python
+* Django
+* TailwindCSS
+* DaisyUI
 * Photoshop
 * Illustrator
